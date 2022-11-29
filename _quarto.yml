@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Micaela Chan"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: About
+      - research_interest.qmd
+      - blog.qmd
+      - icon: github
+        href: https://github.com/mychan24
+      - icon: twitter 
+        href: https://twitter.com/micaela__chan
+  page-footer: 
+    center: "Micaela Chan, Ph.D"
+    right:
+      - icon: github
+        href: https://github.com/mychan24
+      - icon: twitter 
+        href: https://twitter.com/micaela__chan  
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
