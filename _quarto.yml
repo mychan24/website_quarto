@@ -26,10 +26,13 @@ format:
   html:
     smooth-scroll: true
     theme: flatly
-    css: styles.css
+    css: css/styles.css
     toc: true
     link-external-icon: true
     link-external-newwindow: true
-    include-after-body: ./googleanalytic.html
+    include-after-body: static/googleanalytic.html
+  
+resources:
+  - CNAME
 
 editor: visual
