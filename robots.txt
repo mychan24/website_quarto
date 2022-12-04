@@ -1,1 +1,1 @@
-Sitemap: https://mychan24.github.io/website_quarto/sitemap.xml
+Sitemap: micaelachan.com/sitemap.xml
