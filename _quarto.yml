@@ -10,6 +10,8 @@ website:
         text: About
       - research_interest.qmd
       - blog.qmd
+      - href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
+        text: Google Scholar
       - icon: github
         href: https://github.com/mychan24
       - icon: twitter 
@@ -19,7 +21,7 @@ website:
     right:
       - icon: github
         href: https://github.com/mychan24
-      - icon: twitter 
+      - icon: twitter
         href: https://twitter.com/micaela__chan  
 
 format:
