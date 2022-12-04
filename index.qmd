@@ -8,7 +8,7 @@ about:
 ---
 
 **Profile:**\
-I am a cognitive neuroscientist at the [Wig Neuroimaging Lab](https://vitallongevity.utdallas.edu/cnl/) in the Center for Vital Longevity. I completed my Ph.D. in Cognition and Neuroscience at the The University of Texas at Dallas.
+I am a cognitive neuroscientist at the [Wig Neuroimaging Lab](https://www.wigneurolab.org/) in the Center for Vital Longevity. I completed my Ph.D. in Cognition and Neuroscience at the The University of Texas at Dallas.
 
 **Research:**\
 My research focuses on how our experience and environment interacts with the brain's functional network organization. My recent work showcases how socioeconomic status moderates the aging of functional brain network ([published in *PNAS*](https://www.pnas.org/content/115/22/E5144)), and how educational attainment can predict decline in brain network organization, which, in turn is prognostic of future dementia severity ([published in Nature Aging](https://www.nature.com/articles/s43587-021-00125-4)).\

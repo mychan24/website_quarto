@@ -6,8 +6,6 @@ website:
   navbar:
     search: true
     left:
-      - href: index.qmd
-        text: About
       - research_interest.qmd
       - blog.qmd
       - href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
@@ -22,12 +20,16 @@ website:
       - icon: github
         href: https://github.com/mychan24
       - icon: twitter
-        href: https://twitter.com/micaela__chan  
+        href: https://twitter.com/micaela__chan
 
 format:
   html:
+    smooth-scroll: true
     theme: flatly
     css: styles.css
     toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+    include-after-body: ./googleanalytic.html
 
 editor: visual
