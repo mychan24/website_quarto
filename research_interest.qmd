@@ -4,7 +4,7 @@ title: "Research Interest"
 
 ## **Aging Brain Network: Functional Brain Network Desegregates With Aging**
 
-![](images/paste-60AABD93.png)
+![](images/research_segregation.png)
 
 The functional brain network is organized in a way that facilitates specialization, where brain areas with similar function are topologically grouped together, forming a segregated network. This segregated organization decreases with age among healthy adults, and the degree to which the brain network and its corresponding areas are segregated is related to an individual's brain function and cognitive performance.
 
@@ -18,17 +18,18 @@ Thus far, my work has focused on describing desegregation/de-specialization of t
 
 ## **Brain-Environment: Socioeconomic Status Moderates Brain Network Desegregation**
 
-![](images/paste-1B252159.png)
+![](images/research_ses.png)
 
 The brain is constantly receiving and processing signals from one's environment. During critical periods of child development, huge emphasis is put on constructing an environment that fosters healthy neurodevelopment. However, the brain-environment interaction continues into and throughout adulthood. As shown in a recent study, the aging of brain anatomy and functional brain network varies across socioeconomic status, a proxy for one's environment.
 
 While the cross-sectional nature of the recent study could not imply causal relation nor rule out cohort effects, an effort to disentangle these ambiguous effects using data from a larger cohort with a longitudinal design is currently in the works.
 
+-   Chan et al. (2021). [Long-term prognosis and educational determinants of brain network decline in older adult individuals](https://www.nature.com/articles/s43587-021-00125-4). *Nature Aging*
 -   **Chan** et al. (2018). [Socioeconomic status moderates age-related differences in the brain's functional network organization and anatomy across the adult lifespan](http://www.pnas.org/content/115/22/E5144.short). *Proc. Natl. Acad. Sci. USA.*
 
 ## **Cognitive Intervention: Proactive Engagement Through Technological Training**
 
-![](images/paste-925340DC.png)
+![](images/research_intervention.png)
 
 While it is often suggested that older adults should stay 'active' or 'engaged' to maintain a sharp mind, studies have shown that activities that require an individual to learn a new skill results in some of the strongest effects. It has been shown that older adults trained to use a tablet computer for a variety of tasks over 3 months (15 hr/week) outperform control groups in memory and processing speed. Moreover, there is an added advantage of mastering relevant technological skills for everyday life (e.g., navigating the internet, social media, communication using a smart-phone or tablet computer).
 
