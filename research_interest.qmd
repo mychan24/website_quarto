@@ -1,5 +1,5 @@
 ---
-title: "Research Interest"
+title: "Research Interests"
 ---
 
 ## **Aging Brain Network: Functional Brain Network Desegregates With Aging**
