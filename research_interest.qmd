@@ -24,7 +24,7 @@ The brain is constantly receiving and processing signals from one's environment.
 
 While the cross-sectional nature of the recent study could not imply causal relation nor rule out cohort effects, an effort to disentangle these ambiguous effects using data from a larger cohort with a longitudinal design is currently in the works.
 
--   Chan et al. (2021). [Long-term prognosis and educational determinants of brain network decline in older adult individuals](https://www.nature.com/articles/s43587-021-00125-4). *Nature Aging*
+-   **Chan** et al. (2021). [Long-term prognosis and educational determinants of brain network decline in older adult individuals](https://www.nature.com/articles/s43587-021-00125-4). *Nature Aging*
 -   **Chan** et al. (2018). [Socioeconomic status moderates age-related differences in the brain's functional network organization and anatomy across the adult lifespan](http://www.pnas.org/content/115/22/E5144.short). *Proc. Natl. Acad. Sci. USA.*
 
 ## **Cognitive Intervention: Proactive Engagement Through Technological Training**
