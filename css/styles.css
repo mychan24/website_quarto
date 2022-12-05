@@ -30,3 +30,13 @@ p {
   font: proxima-nova;
   font-size: 0.9em;
 }
+
+ul {
+  font: proxima-nova;
+  font-size: 0.9em;  
+}
+
+ol {
+  font: proxima-nova;
+  font-size: 0.9em;  
+}
