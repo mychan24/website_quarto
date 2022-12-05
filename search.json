@@ -32,7 +32,7 @@
     "href": "research_interest.html#brain-environment-socioeconomic-status-moderates-brain-network-desegregation",
     "title": "Research Interest",
     "section": "Brain-Environment: Socioeconomic Status Moderates Brain Network Desegregation",
-    "text": "Brain-Environment: Socioeconomic Status Moderates Brain Network Desegregation\n\nThe brain is constantly receiving and processing signals from one’s environment. During critical periods of child development, huge emphasis is put on constructing an environment that fosters healthy neurodevelopment. However, the brain-environment interaction continues into and throughout adulthood. As shown in a recent study, the aging of brain anatomy and functional brain network varies across socioeconomic status, a proxy for one’s environment.\nWhile the cross-sectional nature of the recent study could not imply causal relation nor rule out cohort effects, an effort to disentangle these ambiguous effects using data from a larger cohort with a longitudinal design is currently in the works.\n\nChan et al. (2018). Socioeconomic status moderates age-related differences in the brain’s functional network organization and anatomy across the adult lifespan. Proc. Natl. Acad. Sci. USA."
+    "text": "Brain-Environment: Socioeconomic Status Moderates Brain Network Desegregation\n\nThe brain is constantly receiving and processing signals from one’s environment. During critical periods of child development, huge emphasis is put on constructing an environment that fosters healthy neurodevelopment. However, the brain-environment interaction continues into and throughout adulthood. As shown in a recent study, the aging of brain anatomy and functional brain network varies across socioeconomic status, a proxy for one’s environment.\nWhile the cross-sectional nature of the recent study could not imply causal relation nor rule out cohort effects, an effort to disentangle these ambiguous effects using data from a larger cohort with a longitudinal design is currently in the works.\n\nChan et al. (2021). Long-term prognosis and educational determinants of brain network decline in older adult individuals. Nature Aging\nChan et al. (2018). Socioeconomic status moderates age-related differences in the brain’s functional network organization and anatomy across the adult lifespan. Proc. Natl. Acad. Sci. USA."
   },
   {
     "objectID": "research_interest.html#cognitive-intervention-proactive-engagement-through-technological-training",
@@ -46,27 +46,6 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "7/7/2020\n\nMost website/summary reports COVID-19 positive test-rate at the state-level. This shiny dashboard plots COVID-19 positive test rate for Texas counties with > 3000 total tests performed.\nData obtained from the Texas Department of State Health Services"
-  },
-  {
-    "objectID": "blog.html#covid-19-community-mobility-map-data-from-google",
-    "href": "blog.html#covid-19-community-mobility-map-data-from-google",
-    "title": "Blog",
-    "section": "COVID-19 Community Mobility Map (Data From Google)",
-    "text": "COVID-19 Community Mobility Map (Data From Google)\n4/26/2020\n\nPlotting percentage change in visits to different category of places for each state\nData table of percent change visits extracted from Google Community Mobility Report\nDarker color indicates 'decrease' in mobility"
-  },
-  {
-    "objectID": "blog.html#git-github-ebook-for-scientists-bookdown",
-    "href": "blog.html#git-github-ebook-for-scientists-bookdown",
-    "title": "Blog",
-    "section": "Git & GitHub Ebook For Scientists (Bookdown)",
-    "text": "Git & GitHub Ebook For Scientists (Bookdown)\n9/17/2019\n\nBrief introduction to Git & GitHub ebook (using bookdown)\nCovers using Git for version control and sharing/collaborating on GitHub\nAccompanied with Git & GitHub Workshop at CVL, Fall 2019."
-  },
-  {
-    "objectID": "blog.html#fmri-qc-plot-in-r",
-    "href": "blog.html#fmri-qc-plot-in-r",
-    "title": "Blog",
-    "section": "FMRI QC Plot In R",
-    "text": "FMRI QC Plot In R\n8/23/2019\n\nR code on how to make fMRI QC plot similar to those shown in Power, 2017 NeuroImage article.It aligns the fMRI time series by voxels/ROIs (bottom gray plot) with motion/signal QC plots (top), making it easy to spot global changes in fMRI signals and potentially relate them to motion or other signals.\nIt uses several small functions available on my GitHub repository, r-for-brain-network."
+    "text": "7/7/2020\n\nMost website/summary reports COVID-19 positive test-rate at the state-level. This shiny dashboard plots COVID-19 positive test rate for Texas counties with > 3000 total tests performed.\nData obtained from the Texas Department of State Health Services\n\n\n\n\n\n4/26/2020\n\nPlotting percentage change in visits to different category of places for each state\nData table of percent change visits extracted from Google Community Mobility Report\nDarker color indicates 'decrease' in mobility\n\n\n\n\n\n9/17/2019\n\nBrief introduction to Git & GitHub ebook (using bookdown)\nCovers using Git for version control and sharing/collaborating on GitHub\nAccompanied with Git & GitHub Workshop at CVL, Fall 2019.\n\n\n\n\n\n8/23/2019\n\nR code on how to make fMRI QC plot similar to those shown in Power, 2017 NeuroImage article.It aligns the fMRI time series by voxels/ROIs (bottom gray plot) with motion/signal QC plots (top), making it easy to spot global changes in fMRI signals and potentially relate them to motion or other signals.\nIt uses several small functions available on my GitHub repository, r-for-brain-network.\n\n\n\n\n\n6/11/2019\n\nThis post outlines using R for brain network analysis. Starting from loading in CIFTI files, extracting time series using CIFTI parcels, constructing network matrix, visualization of matrix and spring-embedded graph, and some basic network analysis."
   }
 ]
