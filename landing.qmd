@@ -11,6 +11,8 @@ link-external-icon: false
 <div class="wrapper">
 <a href="https://micaelachan.com" class="button">Cognitive Neuroscience Research</a>
 
+<a href="https://github.com/mychan24" class="button">Code on GitHub</a>
+
 <a href="https://www.marcelogarciadallas.com/" class="button">BJJ at Marcelo Garcia at Dallas</a>
 
 <a href="https://open.spotify.com/show/1yrLbQ8OSBcYWTPfc1Ud8L" class="button">Back Row Podcast</a>
