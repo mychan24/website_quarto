@@ -2,16 +2,17 @@
 title: ""
 toc: false
 navbar: false
+link-external-icon: false
 ---
 
+<img class="disphead" src="images/profile_pic.png" class="about-image round " style="height: 10em; width: 10em;" >
 
-
-
-
+<center>Micaela Chan</center>
+<div class="wrapper">
 <a href="https://micaelachan.com" class="button">Cognitive Neuroscience Research</a>
 
 <a href="https://www.marcelogarciadallas.com/" class="button">BJJ at Marcelo Garcia at Dallas</a>
 
 <a href="https://open.spotify.com/show/1yrLbQ8OSBcYWTPfc1Ud8L" class="button">Back Row Podcast</a>
 
-
+</div>
