@@ -53,7 +53,7 @@ ol {
 .wrapper {
   display: flex;
   margin: 50px;
-  height: 200px;
+  height: 300px;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
