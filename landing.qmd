@@ -6,7 +6,6 @@ navbar: false
 
 
 
-<div class="wrapper">
 
 
 <a href="https://micaelachan.com" class="button">Cognitive Neuroscience Research</a>
@@ -16,4 +15,3 @@ navbar: false
 <a href="https://open.spotify.com/show/1yrLbQ8OSBcYWTPfc1Ud8L" class="button">Back Row Podcast</a>
 
 
-</div>
