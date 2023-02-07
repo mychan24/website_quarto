@@ -7,6 +7,8 @@ website:
     search: true
     left:
       - research_interest.qmd
+      - href: resources/CV_MicaelaChan_20230207.pdf
+        text: CV
       - blog.qmd
       - href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
         text: Google Scholar

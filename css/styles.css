@@ -72,3 +72,17 @@ ol {
   font-size: 16px;
   justify-content: center;
 }
+
+.small_button {
+  display: flex;
+  background-color: #2C3F50;
+  border-radius: 4px;  
+  border: none;
+  color: white;
+  width: 120px;
+  padding: 15px 15px;
+  text-decoration: none;
+  font-size: 16px;
+  align-items: center;
+  justify-content: center;
+}
