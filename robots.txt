@@ -1,1 +1,1 @@
-Sitemap: micaelachan.com/sitemap.xml
+Sitemap: https://micaelachan.com/sitemap.xml
