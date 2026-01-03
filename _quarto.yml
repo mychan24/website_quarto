@@ -7,27 +7,41 @@ website:
     search: true
     left:
       - research_interest.qmd
-      - href: resources/CV_MicaelaChan_20241021.pdf
-        text: CV
       - blog.qmd
-      - href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
+    right:
+      - icon: "bi bi-file-earmark-person"
+        href: resources/CV_MicaelaChan_20241021.pdf
+        text: CV
+      - icon: journal
+        href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
         text: Google Scholar
       - icon: github
+        text: GitHub
         href: https://github.com/mychan24
-      - icon: twitter 
-        href: https://twitter.com/micaela__chan
+      - text: Connect
+        menu:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/micaela-chan/
+        - text: ResearchGate
+          href: https://www.researchgate.net/profile/Micaela-Chan
+        - icon: twitter-x
+          text: X
+          href: https://x.com/micaela__chan     
   page-footer: 
-    center: "Micaela Chan, Ph.D"
-    right:
+    center: 
+      - text: "Micaela Chan, Ph.D.  "
       - icon: github
         href: https://github.com/mychan24
-      - icon: twitter
-        href: https://twitter.com/micaela__chan
+      - icon: twitter-x
+        href: https://x.com/micaela__chan
+      - icon: linkedin
+        href: https://www.linkedin.com/in/micaela-chan/
 
 format:
   html:
     smooth-scroll: true
-    theme: flatly
+    theme: cosmo-dark
     css: css/styles.css
     toc: true
     link-external-icon: true
