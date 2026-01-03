@@ -42,6 +42,10 @@ ol {
   font-size: 0.9em;  
 }
 
+body {
+  padding-top: 4rem; /* adjust to navbar height */
+}
+
 .disphead {
   border-radius: 50%;
   display: block;
