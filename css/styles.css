@@ -4,6 +4,7 @@
 h1 {
   font: proxima-nova;
   color: #2C3F50; /*#0E4D6D; */
+  text-align: left;
 }
 
 h2 {
@@ -43,6 +44,7 @@ ol {
 }
 
 body {
+  margin-top: 1rem;
   padding-top: 4rem; /* adjust to navbar height */
 }
 
@@ -97,4 +99,8 @@ body {
   top: 0;
   width: 100%;
   z-index: 1030;
+}
+
+html {
+  scroll-padding-top: 5rem;
 }
