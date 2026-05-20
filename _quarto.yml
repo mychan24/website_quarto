@@ -10,7 +10,7 @@ website:
       - blog.qmd
     right:
       - icon: "bi bi-file-earmark-person"
-        href: resources/CV_MicaelaChan_20241021.pdf
+        href: resources/CV_MicaelaChan_20260520.pdf
         text: CV
       - icon: journal
         href: https://scholar.google.com/citations?user=x3rJjOAAAAAJ
@@ -27,7 +27,10 @@ website:
           href: https://www.researchgate.net/profile/Micaela-Chan
         - icon: twitter-x
           text: X
-          href: https://x.com/micaela__chan     
+          href: https://x.com/micaela__chan
+        - icon: bluesky
+          text: Bluesky
+          href: https://bsky.app/profile/micaelachan.bsky.social
   page-footer: 
     center: 
       - text: "Micaela Chan, Ph.D.  "
